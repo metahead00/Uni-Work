@@ -13,7 +13,7 @@ The repository is organized into the following folders, each corresponding to a 
 
 ### Numerical Methods
 
-Applications of Several Appliations
+Applications of several algorithms
 
 ### Computer Organization
 
