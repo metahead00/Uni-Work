@@ -27,12 +27,15 @@ Assignments
 ### Analysis of Algorithms 1
 
 Assignment 1 - Bubble Sort, Insertion Sort, Merge Sort
+
 Assignment 2 - Counting Sort, Heap Sort
+
 Assignment 3 - Binary Search Tree, Red-Black Tree
 
 ### Microprocessor Systems
 
 Assignment 1 - Knapsack Iterative and Recursive Approach in Assembly
+
 Assignment 2 - SysTick and Bubble Sort in Assembly
 
 ---
