@@ -10,18 +10,30 @@ The repository is organized into the following folders, each corresponding to a 
 2. **Computer Organization**
 3. **Object-Oriented Programming (OOP)**
 4. **Data Structures**
-
+5. **Analysis of Algorithms 1**
+6. **Microprocessor Systems**
 ### Numerical Methods
 
-Applications of several algorithms
+Implementation of the Kabsch-Umeyama Algorithm, an algorithm that completes the missing parts in a dataset using linear algebra
 
 ### Computer Organization
 
-Basic Computer
+Mano's Basic Computer with Verilog HDL
 
 ### Data Structures
 
 Assignments 
+
+### Analysis of Algorithms 1
+
+Assignment 1 - Bubble Sort, Insertion Sort, Merge Sort
+Assignment 2 - Counting Sort, Heap Sort
+Assignment 3 - Binary Search Tree, Red-Black Tree
+
+### Microprocessor Systems
+
+Assignment 1 - Knapsack Iterative and Recursive Approach in Assembly
+Assignment 2 - SysTick and Bubble Sort in Assembly
 
 ---
 
